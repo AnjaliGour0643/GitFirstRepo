@@ -1,2 +1,4 @@
 # GitFirstRepo
-This is my first git repopsitory
+This is my first git repopsitory. 
+<br>
+Author - Anjali Gour
